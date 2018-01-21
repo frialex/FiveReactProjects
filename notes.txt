@@ -1,0 +1,3 @@
+React is particularly known for creating user interfaces using a component architecture. 
+Each component can contain internal state or be passed data as props. 
+State and props are the two most important concepts in React
